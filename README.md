@@ -1,3 +1,3 @@
 # Portfólio
  
- Criado para mostrar os o Portfolio do Desenvolvedor
+ Criado para mostrar o Portfolio do Desenvolvedor
